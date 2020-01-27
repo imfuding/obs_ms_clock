@@ -3,7 +3,7 @@ obs秒表时钟插件(推流时可显示毫秒级的当前电脑时间)
 
 ## 安装方法与效果:
 
-![install](https://raw.githubusercontent.com/imfuding/obs_ms_clock/master/install.png)
+![install](https://github.com/imfuding/obs_ms_clock/blob/master/install.jpg?raw=true)
 
 ## 感谢
 
